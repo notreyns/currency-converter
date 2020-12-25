@@ -1,0 +1,6 @@
+#pane{
+    -fx-background-image: url("money2.jpg");
+    -fx-background-repeat: stretch;
+    -fx-opacity: 0.7;
+    -fx-background-position: center center;
+}
